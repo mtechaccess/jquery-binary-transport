@@ -1,0 +1,19 @@
+{
+  "name": "jquery-binary-transport",
+  "version": "1.0.0",
+  "description": "jQuery ajax transport for making binary data type requests.",
+  "main": "jquery-binary-transport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtechaccess/jquery-binary-transport.git"
+  },
+  "author": "Henry Algus <henryalgus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtechaccess/jquery-binary-transport/issues"
+  },
+  "homepage": "https://github.com/mtechaccess/jquery-binary-transport#readme"
+}
